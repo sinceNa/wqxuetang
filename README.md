@@ -24,6 +24,9 @@ $ node app.js -b 3209072 -p 393
 $ node app.js -b 3209072 -p 393 -r 2,34
 ```
 
-图片转pdf
+[图片转PDF](https://gist.github.com/sinceNa/a5f308719f88d61e95152a73e27db3ee)
 
-<script src="https://gist.github.com/sinceNa/a5f308719f88d61e95152a73e27db3ee.js"></script>
+
+
+
+
